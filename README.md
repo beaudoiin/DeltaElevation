@@ -4,7 +4,8 @@ This device makes use of an arduino nano micro controller for logical control, a
 
 # Progress as of August 20th, 2026
 The current state of development for the summer of 2026 is as follows:
-#Physical 
+
+# Physical 
 * Model car made and tested. Key issues identified.
 * Load cell, elevator buttons, cabling system installed.
 * Elevator car 608 bearings attached and guide rails positioned.
@@ -12,7 +13,8 @@ The current state of development for the summer of 2026 is as follows:
 * Limit switches installed.
 * Motor mount designed and installed.
 * Counterweiggt designed and installed.
-* Motor movement tested
+* Motor movement tested.
+* Makr adjusyments to HMI display casing, to properly allow wites through the base, and lining up internal slots for wiring.
 
 # Electronic
 * Arduino core logic programmed.
