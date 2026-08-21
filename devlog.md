@@ -1,7 +1,7 @@
 Current project progress is outline below. More recent changes and active progress is found at the top.
 <details>
 <summary><b>Left Side Wall (Parametric Redesign) ::2026-08-21</b></summary>
-
+  
 ### Current Focus: Parametric sesign and locking in measurements as equations
 - [x] Main Body
 - [x] Side Mating Channel
@@ -13,6 +13,7 @@ Current project progress is outline below. More recent changes and active progre
 - [ ] Material removal to reduce weight with releifs
 - [ ] Weight reducion pockets (with corner radi)
 </details>
+<details>
 <summary><b>Inspect current progress and Identify Issues ::2026-08-19</b></summary>
 
 ### Current Focus: Finding issues in the system that need itterations
