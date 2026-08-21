@@ -12,6 +12,8 @@ Current project progress is outline below. More recent changes and active progre
 - [ ] DoorSlot
 - [ ] Material removal to reduce weight with releifs
 - [ ] Weight reducion pockets (with corner radi)
+
+![wall progress](/devlogassets/wallv2.png)
 </details>
 <details>
 <summary><b>Inspect current progress and Identify Issues ::2026-08-19</b></summary>
