@@ -1,6 +1,6 @@
 Current project progress is outline below. More recent changes and active progress is found at the top.
 <details>
-<summary><b>Left Side Wall (Parametric Redesign)</b></summary>
+<summary><b>Left Side Wall (Parametric Redesign) ::2026-08-21</b></summary>
 
 ### Current Focus: Parametric sesign and locking in measurements as equations
 - [x] Main Body
@@ -12,4 +12,11 @@ Current project progress is outline below. More recent changes and active progre
 - [ ] DoorSlot
 - [ ] Material removal to reduce weight with releifs
 - [ ] Weight reducion pockets (with corner radi)
+</details>
+<summary><b>Inspect current progress and Identify Issues ::2026-08-19</b></summary>
+
+### Current Focus: Finding issues in the system that need itterations
+- [x] Discovered many areas of key improvement
+- [x] Outlined a logical order of next designs and itterations
+- [x] Created this repository
 </details>
