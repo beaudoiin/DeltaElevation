@@ -2,7 +2,7 @@
 Model Elevator System. 
 This device makes use of an arduino nano micro controller for logical control, a ESP32 HMI screen for Scada control. It is mamufactured with 3D printing, which features a 3-floor elevator shaft with elecator car and model floors. Electronic componenets employed are: DFMini player, Shift Registers, RTC, IIC leveler, SD reader, BT_2 motor driver and other various componenets.
 
-#Progress as of August 20th, 2026
+# Progress as of August 20th, 2026
 The current state of development for the summer of 2026 is as follows:
 #Physical 
 * Model car made and tested. Key issues identified.
@@ -14,7 +14,7 @@ The current state of development for the summer of 2026 is as follows:
 * Counterweiggt designed and installed.
 * Motor movement tested
 
-#Electronic
+# Electronic
 * Arduino core logic programmed.
 * HMI screen core logic and display management programmed.
 * Shift registered wired and interfaced.
@@ -27,7 +27,7 @@ The current state of development for the summer of 2026 is as follows:
 * EStop system working.
 * Service mode switch working. (code to be tested).
 
-#Next Steps (Light overview)
+# Next Steps (Light overview)
 * Reduce wire count int cabling system
 * create a wire management system to keep wires out of the way of objects jn the shaft.
 * Redisgn limit switches ornother methods for checking floor locations. (Halleffect most ideal)
