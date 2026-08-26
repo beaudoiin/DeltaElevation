@@ -1,6 +1,6 @@
 Current project progress is outline below. More recent changes and active progress is found at the top.
 <details>
-<summary><b>Left Side Wall (Parametric Redesign) ::2026-08-21</b></summary>
+<summary><b>Left Side Wall (Parametric Redesign) ::2026-08-25</b></summary>
   
 ### Current Focus: Parametric sesign and locking in measurements as equations
 - [x] Main Body
@@ -9,11 +9,12 @@ Current project progress is outline below. More recent changes and active progre
 - [x] L-Bar Slot
 - [x] Vertical Panel Mating Features
 - [x] Pla material created and applied
-- [ ] DoorSlot
-- [ ] Material removal to reduce weight with releifs
-- [ ] Weight reducion pockets (with corner radi)
+- [ ] DoorSlot (Still needs Testing)
+- [x] Material removal to reduce weight with releifs
+- [x] Weight reducion pockets (with corner radi)
 
 ![wall progress](/devlogassets/wallv2.png)
+The current progress include additional releif pockets and reduced materials not shown in the above image. Weight was 220g+ now sits at 135g.
 </details>
 <details>
 <summary><b>Inspect current progress and Identify Issues ::2026-08-19</b></summary>
