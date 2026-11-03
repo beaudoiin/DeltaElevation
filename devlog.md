@@ -1,8 +1,8 @@
 Current project progress is outline below. More recent changes and active progress is found at the top.
 <details>
 <summary><b>Overall (Parametric Redesign) ::2026-11-02</b></summary>
-<details>
-### Update, busy with other projects up to this point. Just revisted the redesign
+ 
+### Current Focus, Redsigning and Organizing into New Assembly
   * Finished up the left and right panel
   * Working on the mid back panel
   * placed the left/right/back panels into a new assembly
@@ -10,12 +10,13 @@ Current project progress is outline below. More recent changes and active progre
   * Decided to use only one main power trunk to the car and have a circuitboard underneith
   * Decided to use switch from 3d printer, cheap chinese switch for basement limit and the z homing
   * Decided to order new limit switches with a more appropariate arm, if this doesnt work I will design my own limit switch or redesign the car lever better
-
-  I will try to come back to this project more frequently to get it done.
-/<details>
+![wall progress](/devlogassets/wallv3assembly.png)
+  I have been busy with other projects up to this point. Just revisted the redesign and I will try to come back to this project more frequently to get it done.
+</details>
+<details>
 <summary><b>Left Side Wall (Parametric Redesign) ::2026-08-25</b></summary>
-  
-### Current Focus: Parametric sesign and locking in measurements as equations
+ 
+ ### Current Focus: Parametric sesign and locking in measurements as equations
 - [x] Main Body
 - [x] Side Mating Channel
 - [x] Counterweight Guides
