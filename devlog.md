@@ -12,7 +12,7 @@ Current project progress is outline below. More recent changes and active progre
   * Decided to order new limit switches with a more appropariate arm, if this doesnt work I will design my own limit switch or redesign the car lever better
 
   I will try to come back to this project more frequently to get it done.
-<details>
+/<details>
 <summary><b>Left Side Wall (Parametric Redesign) ::2026-08-25</b></summary>
   
 ### Current Focus: Parametric sesign and locking in measurements as equations
