@@ -10,8 +10,10 @@ Current project progress is outline below. More recent changes and active progre
   * Decided to use only one main power trunk to the car and have a circuitboard underneith
   * Decided to use switch from 3d printer, cheap chinese switch for basement limit and the z homing
   * Decided to order new limit switches with a more appropariate arm, if this doesnt work I will design my own limit switch or redesign the car lever better
+
 ![wall progress](/devlogassets/wallv3assembly.png)
-  I have been busy with other projects up to this point. Just revisted the redesign and I will try to come back to this project more frequently to get it done.
+
+I have been busy with other projects up to this point. Just revisted the redesign and I will try to come back to this project more frequently to get it done.
 </details>
 <details>
 <summary><b>Left Side Wall (Parametric Redesign) ::2026-08-25</b></summary>
